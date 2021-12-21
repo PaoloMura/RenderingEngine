@@ -12,6 +12,9 @@ This project was my subission for the year 3 Computer Graphics coursework. The t
 * flat, gouraud and phong shading
 * mirrored/reflective surfaces
 
+## Video Demo
+See [this](https://youtu.be/S1HW-HjA97Y) YouTube video for the final ident I produced.
+
 ## How to run
 
 Make sure that `GLM` and `SDL2` are installed. Navigate to the project directory and run using
